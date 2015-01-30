@@ -1,0 +1,10 @@
+{
+  "name"        : "Rendered Images",
+  "version"     : "1.0.0",
+  "description" : "adds @img tag for displaying linked image rendered in the document",
+  "homepage"    : "#",
+  "author"      : "Caroline Artz",
+  "engines"     : {
+    "foldingtext": ">2.0.0"
+  }
+}
